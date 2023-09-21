@@ -1,9 +1,8 @@
 # Prova Finale Di Reti Logiche
-***2022/2023***
 
-Progetto di Ingegneria Informatica per il corso di "Reti Logiche" al Politecnico di Milano. Anno Accademico 2022/2023. Voto: 30/30 e Lode.
+Progetto di Ingegneria Informatica per il corso di "Reti Logiche" al Politecnico di Milano, Anno Accademico 2022/2023, Voto: 30/30 e Lode.
 
-Computer Engineering project for the course: "Digital logic design" at "Politecnico di Milano". Academic Year 2022/2023. Grade: 30/30 Cum Laude.
+Computer Engineering project for the course: "Digital logic design" at "Politecnico di Milano", Academic Year 2022/2023, Grade: 30/30 Cum Laude.
 
 ***PANORAMICA***
 
