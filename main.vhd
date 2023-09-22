@@ -27,10 +27,10 @@ entity project_reti_logiche is
 end project_reti_logiche;
 
 architecture Behavioral of project_reti_logiche is
--- leggo W e separo canale d'uscita/indrizzo memeoria ram
+-- leggo W e separo il canale d'uscita/indirizzo di memoria da cui leggere il dato.
 -- leggo dalla memoria il dato
 -- lo salvo in un registro
--- individuo il canale d'uscita
+-- individuo e "attivo" il canale d'uscita
 -- trascrivo il dato in uscita e metto DONE = 1
     type state_type IS (IDLE,LETTURA_CANALE, CHECKER, READ_RAM, WAIT_RAM,SET_RAM, WRITE_OUT, DONE);
     SIGNAL state_curr, state_next : state_type;
